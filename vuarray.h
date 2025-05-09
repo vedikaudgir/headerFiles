@@ -1,3 +1,6 @@
+//Header file for array functions.
+//Author - Vedika Udgir 
+
 #include <stdio.h>
 
 void read1d(int a[50], int n)
